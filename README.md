@@ -1,7 +1,7 @@
 # DTANet
 
 > **Paper: Dual Interaction and Kernel-Diverse Network for Accurate Drug-Target Binding Affinity Prediction**
-> Author: Yulong Wu, Jin Xie, Jing Nie and Jian Hu
+> Author: Yulong Wu, Jin Xie, Jing Nie, Jian Hu and Yuansong Zeng
 
 ## Installation
 
