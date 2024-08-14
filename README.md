@@ -1,6 +1,7 @@
 # DTANet
 
 > **Paper: Dual Interaction and Kernel-Diverse Network for Accurate Drug-Target Binding Affinity Prediction**
+> 
 > Author: Yulong Wu, Jin Xie, Jing Nie, Jian Hu and Yuansong Zeng
 
 ## Installation
@@ -27,7 +28,7 @@ Other requirements:
 - The **emetrics.py** provides evaluation metrics for the model.
 - The **figures.py** provides some visualization methods.
 - The **model/model_block.py** provides the basic blocks that **model/model_att3.py** needs to use.
-- The **model/model_att3.py** is the main model of our DTANet, and other **model/*.py** are the model needed for ablation experiments.
+- The **model/model_att3.py** is the main model of our DTANet, and other **model/model_\*.py** are the model needed for ablation experiments.
 - We use them in **run_experiments.py**.
 
 ```
