@@ -28,7 +28,7 @@ Other requirements:
 - The **emetrics.py** provides evaluation metrics for the model.
 - The **figures.py** provides some visualization methods.
 - The **model/model_block.py** provides the basic blocks that **model/model_att3.py** needs to use.
-- The **model/model_att3.py** is the main model of our DTANet, and other **model/model_\*.py** are the model needed for ablation experiments.
+- The **model/model_att3.py** is the main model of our DTANet, and other **model/model\*_\*.py** are the model needed for ablation experiments.
 - We use them in **run_experiments.py**.
 
 ```
